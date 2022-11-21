@@ -163,7 +163,7 @@ V=850V
 
 26)Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas
 
-
+[![Captura-de-pantalla-20221120-222800.png](https://i.postimg.cc/bNsj1gkF/Captura-de-pantalla-20221120-222800.png)](https://postimg.cc/svd8rpnp)
 
 Utilizando la formula V=I*R
 
@@ -217,3 +217,175 @@ R=60Ω-15Ω= 45Ω
 
 36)En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas
 
+[![Captura-de-pantalla-20221120-222806.png](https://i.postimg.cc/wBd88dPS/Captura-de-pantalla-20221120-222806.png)](https://postimg.cc/w1FbLn9V)
+
+EJERCICIOS CAPITULO 4
+
+2)Demuestre que hay 3.6x106 joules en un kilowatt-hora
+
+P=W/t -------> 1kW=1000J
+
+1000/h*3600s= 3.6x106J
+
+**4)¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+Uso la formula de P=W/t
+
+5h=18000s
+
+P=7500/18000s=0.41W
+
+6) Convierta las siguientes cantidades en kilowatts:
+
+a)1000W=1kW
+
+b)3750W=3.75kW
+
+c)160W=0.16kW
+
+d)50,000W=50kW
+
+8)Convierta las siguientes cantidades en miliwatts:
+
+a)1W=1000mW
+
+b)0.4W=400mW
+
+c)0.002W=2mW
+
+d)0.0125W=12.5mW
+
+10)Convierta las siguientes cantidades en watts:
+
+a)1.5kW=1500W
+
+b)0.5MW=5x105W
+
+c)350mW=0.35W
+
+d)9000µW=9x10-3
+
+12)Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+P=W/t ------> W=Pt
+
+W=(300W)(2592000s)=(777600000J)/3600J=216000kW
+
+14)Convierta 5x106 watts-minutos en kWh
+
+5x106= 5000000W
+
+1watt-minuto=0.000017kWh
+
+5000000x0.000017= 85kWh
+
+16)¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?
+
+Usando la formula P=I2R, tengo que:
+
+P=52A(47Ω)=1175W
+
+Usando la formula de la potencia: P=W/t, despejo t y reemplazo
+
+t=25J/1175W
+
+t= 0.021s
+
+18)Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+Usando la formula P=VI y teniendo en cuenta que 3mA= 0.003A
+
+P=(5.5V)(0.003A)=0.0165W
+
+20)¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+Usando la formula P=I2R y teniendo en cuenta las unidades:
+
+(500mA=0.5A) y (4.7kΩ=4700Ω)
+
+P=(0.5)2A(4700)Ω=2350W
+
+22)Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?
+
+Utilizando la formula P=V2/R, reemplazo y obtengo:
+
+P=602V/680Ω
+
+P=5.29W
+
+24)Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido
+
+Para calcular el valor de la resistencia uso la formula aplicada en el ejercicio 20, solamente despejaría R: P=I2R
+
+Tendría que: R= P/I2
+
+R= 100/4
+
+R=25Ω
+
+26)Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+Usando la formula P=I2R y teniendo en cuenta las unidades:
+
+10mA= 0.010A y 6.8kΩ=6800
+
+P=(0.010)2/6800
+
+P=1.470588235x10-8W
+
+28)En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto
+
+[![Captura-de-pantalla-20221120-222821.png](https://i.postimg.cc/htmW5GCL/Captura-de-pantalla-20221120-222821.png)](https://postimg.cc/fVMr3MQy)
+
+30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+I=V/R
+
+I=1.25/10=0.125A
+
+Produce un promedio de 0.125A durante 90 horas de acuerdo al voltaje
+
+32)Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+24h=x/1.5A
+
+x=24h x 1.5A
+
+x= 36Ah
+
+34)Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+650mAh= 0.65Ah
+
+48h=0.65Ah/x , despejo x y el valor de x será mi corriente promedio
+
+x=0.014A
+
+El valor promedio de corriente será de 0.014A
+
+36)Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+Eficiencia= Psalida/Pentrada
+
+Psalida= Eficiencia x 0.85
+
+Psalida= 5x0.85 = 4.25W
+
+Se cumple que el valor de salida es menor al valor de entrada
+
+4)Video
+
+https://youtu.be/H-2t3xqG2HE
+
+5.Conclusiones
+
+En este informe se pudo estudiar y entender la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas. Este informe a la vez sirvió para conocer el manejo de la ley de ohm en combinación de la potencia, la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia.
+
+6.Bibliografía
+
+
+_Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+
+_Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos (Vol. 30). Prentice-Hall Hispanoamericana.
+
+_Mora, C., Sánchez-Sánchez, R., & Velázquez-Arteaga, L. J. (2015). Enseñando la Ley de Ohm usando Aprendizaje Activo de la Física a Nivel Medio Superior en el Distrito Federal de México. Latin-American Journal of Physics Education, 9.
