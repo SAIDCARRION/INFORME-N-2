@@ -10,3 +10,4 @@ _Familarizar los prefijos métricos con la resolución y lectura de datos plante
 _Aplicar los conceptos y teoría de potencia para la resolución de problemas
 
 2. MARCO TEÓRICO
+[![Captura-de-pantalla-20221120-221539.png](https://i.postimg.cc/m20sb9Jz/Captura-de-pantalla-20221120-221539.png)](https://postimg.cc/1fcTB89s)
